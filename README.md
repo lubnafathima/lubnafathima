@@ -1,20 +1,45 @@
-### Hi there 👋
-
 ![Lubna Fathima](https://media-exp1.licdn.com/dms/image/C5603AQFDLoTfNixE9A/profile-displayphoto-shrink_200_200/0/1649605232157?e=1664409600&v=beta&t=I8Vgv35WABiUcoIFlLJxe97RnOPyW5imCUN5wLTQyW4)
+
+### Hi there 👋
 
 - 🔭 I’m currently working on *building a College Management System*
 - 🌱 I’m currently learning **MERN stack**
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking forward to meet like minded people
 - 💬 Ask me about Websites, DSA, Aptitude Preparation
-- 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1), [LinkedIn](https://www.linkedin.com/in/lubna-fathima-4a30b4226/), [My Portfolio](https://lubnafathima.github.io/portfolio/), [Hashnode](https://hashnode.com/@lubnafathima), [DEV Community](https://dev.to/lubnafathima), [LinkFree](https://linkfree.eddiehub.io/lubnafathima)
+<!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
 - 😄 Pronouns: she/her
 - ⚡ Other Learnings: DSA + Java, Quantitative Aptitude
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" 
-/>
+### My Skills 🚀
+![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![Mongodb](https://img.shields.io/badge/mongodb-%3776AB.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D)
+![Express JS](https://img.shields.io/badge/express-%3776AB.svg?style=for-the-badge&logo=express&logoColor=white&color=cb3837)
+![React JS](https://img.shields.io/badge/react-%3776AB.svg?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
+![Node JS](https://img.shields.io/badge/node-%3776AB.svg?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 
+### Connect With Me 🤝🤝
+[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://twitter.com/MsCoder1)
+[<img src = "https://img.shields.io/badge/Portfolio-%ff69b4.svg?&style=for-the-badge&logo=user&logoColor=white">](https://lubnafathima.github.io/portfolio/)
+[<img src="https://img.shields.io/badge/linkfree-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white" />](https://linkfree.eddiehub.io/lubnafathima)
+[<img src = "https://img.shields.io/badge/hashnode-%2320A1F1.svg?&style=for-the-badge&logo=hashnode&logoColor=white">](https://hashnode.com/@lubnafathima)
+[<img src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/lubnafathima)
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnafathima&layout=compact&theme=tokyonight" alt="lubnafathima_stats" />  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lubnafathima&theme=tokyonight" alt="lubnafathima_stats"/>
+</p>
 
 
 
