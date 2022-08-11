@@ -1,4 +1,5 @@
-![Lubna Fathima](https://media-exp1.licdn.com/dms/image/C5603AQFDLoTfNixE9A/profile-displayphoto-shrink_200_200/0/1649605232157?e=1664409600&v=beta&t=I8Vgv35WABiUcoIFlLJxe97RnOPyW5imCUN5wLTQyW4)
+
+![LubnaFathima](https://user-images.githubusercontent.com/69050759/184235436-2cacbcbd-1638-4a77-bfeb-d5e743f81820.gif)
 
 ### Hi there 👋
 
