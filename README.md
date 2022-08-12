@@ -1,5 +1,4 @@
-
-![LubnaFathima](https://user-images.githubusercontent.com/69050759/184235436-2cacbcbd-1638-4a77-bfeb-d5e743f81820.gif)
+![new](https://user-images.githubusercontent.com/69050759/184303717-94a0ce66-028d-4ed7-acd2-74247a668de7.gif)
 
 ### Hi there 👋
 
