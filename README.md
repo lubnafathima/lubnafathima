@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 
-- 🌱 I’m a **MERN stack** developer
-- 🔭 I’m *building a College Management System* website
-- 👯 I’m an Open Source Enthusiast
+- 🔭 I’m persuing undergraduation in **Information Technology**
+- 👯 I’m an **Open Source Enthusiast**
+- 🌱 I build websites using **MERN stack**
+- 🤖 I'm a finalist in **Smart India Hacathon 2020**
+- 🚩 I'm [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
 - 🤔 I’m looking forward to meet amazing like minded people
-- 💬 Ask me about Websites, DSA, Aptitude Preparation
+- 💬 Ask me about Websites, DSA, Aptitude/interviews Preparation, or anything tech related
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
 - 😄 Pronouns: she/her
 - ⚡ Other Learnings: DSA + Java, Quantitative Aptitude
