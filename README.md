@@ -9,9 +9,9 @@
 - 🚩 I'm [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
 - 🤔 I’m looking forward to meet amazing like minded people
 - 💬 Ask me about Websites, DSA, Aptitude/interviews Preparation, or anything tech related
-<!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
 - 😄 Pronouns: she/her
 - ⚡ Other Learnings: DSA + Java, Quantitative Aptitude
+<!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
 
 ### My Skills 🚀
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
