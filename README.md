@@ -59,6 +59,7 @@ Just for my reference
 Heading must be in same order
 
 > test
+** test 2 **
 
 This is **bold** and This is **multiple word with bold** (remember between * and first letter there should be any space)
 
