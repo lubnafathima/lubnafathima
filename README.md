@@ -46,7 +46,7 @@
 
 
 <!-- This is a comment
-Just for my reference 
+Just for my reference (to remember while writing markdown files)
 
 
 # Heading 1
@@ -57,9 +57,6 @@ Just for my reference
 ###### Heading 6
 
 Heading must be in same order
-
-> test
-** test 2 **
 
 This is **bold** and This is **multiple word with bold** (remember between * and first letter there should be any space)
 
