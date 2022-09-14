@@ -46,7 +46,7 @@
 
 
 <!-- This is a comment
-Just for my reference (to remember while writing markdown files)
+Just for my reference
 
 
 # Heading 1
@@ -268,5 +268,5 @@ https://www.eddiejaoude.io/course-github-profile/index
 
 
 
-
+comment ends here
 -->
