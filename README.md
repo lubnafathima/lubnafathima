@@ -6,7 +6,7 @@
 - 👯 I’m an **Open Source Enthusiast**
 - 🌱 I build websites using **MERN stack**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
-- 🚩 I'm [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
+- 🚩 I'm a [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
 - 🤔 I’m looking forward to meet amazing like minded people
 - 💬 Ask me about Websites, DSA, Aptitude/interviews Preparation, or anything tech related
 - 😄 Pronouns: she/her
