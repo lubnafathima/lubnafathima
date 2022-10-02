@@ -29,6 +29,9 @@
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 
+### My Badges 🏅
+[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)
+
 ### Connect With Me 🤝🤝
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/MsCoder1)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lubna-fathima-n/)
