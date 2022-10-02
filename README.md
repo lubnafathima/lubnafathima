@@ -27,11 +27,12 @@
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)  
 
 ### My Badges 🏅
-[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)
-[badge](https://github.com/users/lubnafathima/achievements/quickdraw)
+[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)  
+![Quickdraw Badge in Github](https://github.com/users/lubnafathima/achievements/quickdraw)  
+![Pull Shark Badge in Github]https://github.com/users/lubnafathima/achievements/pull-shark)  
 
 ### Connect With Me 🤝🤝
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/MsCoder1)
