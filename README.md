@@ -42,6 +42,12 @@
 [<img src = "https://img.shields.io/badge/hashnode-%2320A1F1.svg?&style=for-the-badge&logo=hashnode&logoColor=white">](https://hashnode.com/@lubnafathima)
 [<img src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/lubnafathima)
 
+### Projects
+#### -> [TraWell](https://github.com/lubnafathima/TraWell) - https://lubnafathima.github.io/TraWell/  
+#### -> [YooPune](https://github.com/lubnafathima/yoopune) - https://yoopune.000webhostapp.com/  
+#### -> [Developing Awesomeness](https://github.com/lubnafathima/portfolio) - https://lubnafathima.github.io/portfolio/  
+### -> [Frontend Mentor](https://www.frontendmentor.io/profile/lubnafathima)  
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnafathima&layout=compact&theme=tokyonight" alt="lubnafathima_stats" />  
