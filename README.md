@@ -46,6 +46,8 @@
 #### -> [TraWell](https://github.com/lubnafathima/TraWell) - https://lubnafathima.github.io/TraWell/  
 #### -> [YooPune](https://github.com/lubnafathima/yoopune) - https://yoopune.000webhostapp.com/  
 #### -> [Developing Awesomeness](https://github.com/lubnafathima/portfolio) - https://lubnafathima.github.io/portfolio/  
+#### -> [Smart Fashion Recommender Application](https://github.com/IBM-EPBL/IBM-Project-43829-1660719913) - IBM Nalaya Thiran
+
 ### -> [Frontend Mentor](https://www.frontendmentor.io/profile/lubnafathima)  
 
 <p align="center">
