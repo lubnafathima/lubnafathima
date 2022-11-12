@@ -43,10 +43,12 @@
 [<img src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/lubnafathima)
 
 ### Projects
-#### -> [TraWell](https://github.com/lubnafathima/TraWell) - https://lubnafathima.github.io/TraWell/  
-#### -> [YooPune](https://github.com/lubnafathima/yoopune) - https://yoopune.000webhostapp.com/  
-#### -> [Developing Awesomeness](https://github.com/lubnafathima/portfolio) - https://lubnafathima.github.io/portfolio/  
-#### -> [Smart Fashion Recommender Application](https://github.com/IBM-EPBL/IBM-Project-43829-1660719913) - IBM Nalaya Thiran
+#### -> Sterling - [[Git Repo](https://github.com/lubnafathima/sterling-non_profit_healthcare)]  [[View Demo](https://lubnafathima.github.io/sterling-non_profit_healthcare/)]  
+#### -> TraWell - [[Git Repo](https://github.com/lubnafathima/TraWell)] - [[View Demo](https://lubnafathima.github.io/TraWell/)]
+
+#### -> YooPune - [[Git Repo](https://github.com/lubnafathima/yoopune)] - [[View Demo](https://yoopune.000webhostapp.com/)]  
+#### -> Developing Awesomeness - [[Git Repo](https://github.com/lubnafathima/portfolio)] - [[View Demo](https://lubnafathima.github.io/portfolio/)]  
+#### -> Smart Fashion Recommender Application - [[Git Repo](https://github.com/IBM-EPBL/IBM-Project-43829-1660719913)] - IBM Nalaya Thiran
 
 ### -> [Frontend Mentor](https://www.frontendmentor.io/profile/lubnafathima)  
 
