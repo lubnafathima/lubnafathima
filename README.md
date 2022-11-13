@@ -29,11 +29,6 @@
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)  
 
-### My Badges 🏅
-[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)  
-- [Quickdraw Badge in Github](https://github.com/users/lubnafathima/achievements/quickdraw)  
-- [Pull Shark Badge in Github](https://github.com/users/lubnafathima/achievements/pull-shark)  
-
 ### Connect With Me 🤝🤝
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/MsCoder1)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lubna-fathima-n/)
@@ -52,6 +47,11 @@
 #### -> Smart Fashion Recommender Application - [[Git Repo](https://github.com/IBM-EPBL/IBM-Project-43829-1660719913)] - IBM Nalaya Thiran
 
 ### -> [Frontend Mentor](https://www.frontendmentor.io/profile/lubnafathima)  
+
+### My Badges 🏅
+[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)  
+- [Quickdraw Badge in Github](https://github.com/users/lubnafathima/achievements/quickdraw)  
+- [Pull Shark Badge in Github](https://github.com/users/lubnafathima/achievements/pull-shark)  
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" />
