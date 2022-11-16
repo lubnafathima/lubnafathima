@@ -38,7 +38,7 @@
 [<img src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/lubnafathima)
 
 ### Projects
-#### -> Smart Fashion - [[Git Repo](https://github.com/Smart-Fashion-Recommender-Application/Smart_Fashion/)]  [[View Demo](https://smart-fashion-recommender-application.github.io/Smart_Fashion/)]  
+<!-- #### -> Smart Fashion - [[Git Repo](https://github.com/Smart-Fashion-Recommender-Application/Smart_Fashion/)]  [[View Demo](https://smart-fashion-recommender-application.github.io/Smart_Fashion/)]   -->
 #### -> Sterling - [[Git Repo](https://github.com/lubnafathima/sterling-non_profit_healthcare)]  [[View Demo](https://lubnafathima.github.io/sterling-non_profit_healthcare/)]  
 #### -> TraWell - [[Git Repo](https://github.com/lubnafathima/TraWell)] - [[View Demo](https://lubnafathima.github.io/TraWell/)]
 
