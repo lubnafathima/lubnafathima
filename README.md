@@ -20,10 +20,10 @@
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![Mongodb](https://img.shields.io/badge/mongodb-%3776AB.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D)
+<!-- ![Mongodb](https://img.shields.io/badge/mongodb-%3776AB.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D)
 ![Express JS](https://img.shields.io/badge/express-%3776AB.svg?style=for-the-badge&logo=express&logoColor=white&color=cb3837)
 ![React JS](https://img.shields.io/badge/react-%3776AB.svg?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
-![Node JS](https://img.shields.io/badge/node-%3776AB.svg?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A)
+![Node JS](https://img.shields.io/badge/node-%3776AB.svg?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A) -->
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
