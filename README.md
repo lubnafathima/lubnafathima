@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 
-- 🔭 I’m persuing undergraduation in **Information Technology**
+- 🔭 I’m B. Tech **Information Technology** graduate.  
 - 👯 I’m an **Open Source Enthusiast**
 - 🌱 Learning **MERN stack**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
 - 🚩 I'm a [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
-- 🤔 I’m looking forward to meet amazing like minded people
-- 💬 Let's talk about Websites, DSA, Aptitude/interviews Preparation, or anything tech related
+- 🤔 I’m looking forward to meeting amazing like-minded people
+- 💬 Let's talk about Websites or anything tech-related
 - 😄 Pronouns: she/her
 - ⚡ Other Learnings: DSA + Java, Quantitative Aptitude
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
@@ -16,13 +16,14 @@
 ### My Skills 🚀
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![React JS](https://img.shields.io/badge/react-%3776AB.svg?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
+![Next JS](https://img.shields.io/badge/next-%3776AB.svg?style=for-the-badge&logo=next&logoColor=white&color=3C873A)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 <!-- ![Mongodb](https://img.shields.io/badge/mongodb-%3776AB.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=4DB33D)
 ![Express JS](https://img.shields.io/badge/express-%3776AB.svg?style=for-the-badge&logo=express&logoColor=white&color=cb3837)
-![React JS](https://img.shields.io/badge/react-%3776AB.svg?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
 ![Node JS](https://img.shields.io/badge/node-%3776AB.svg?style=for-the-badge&logo=node.js&logoColor=white&color=3C873A) -->
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
