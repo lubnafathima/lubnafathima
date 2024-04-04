@@ -4,11 +4,11 @@
 
 - 🔭 I’m B. Tech **Information Technology** graduate.  
 - 👯 I’m a **Frontend Developer**
-- 🌱 I expertise in **Next Js, React Js, JavaScript, Bootstarp Tailwind CSS, and SCSS**
+- 🌱 I expertise in **Next Js, React Js, JavaScript, Bootstarp, Tailwind CSS, and SCSS**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
 - 🚩 I'm a [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
 - 🤔 I’m looking forward to meeting amazing like-minded people
-- 💬 Let's talk about Websites or anything tech-related
+- 💬 Let's talk about Websites or anything Tech-related
 - 😄 Pronouns: she/her
 - ⚡ I'm passionate about websites
 <!-- - 📫 How to reach me: [Twitter](https://twitter.com/MsCoder1) -->
