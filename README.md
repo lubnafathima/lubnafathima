@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m B. Tech **Information Technology** graduate.  
+- 🔭 I’m B.Tech **Information Technology** graduate.  
 - 👯 I’m a **SDE**
 - 🌱 I expertise in **Next Js, React Js, Redux, JavaScript, Airtable, Bootstarp, Tailwind CSS, and SCSS**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
