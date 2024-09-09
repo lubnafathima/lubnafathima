@@ -56,8 +56,11 @@
 - [Pull Shark Badge in Github](https://github.com/users/lubnafathima/achievements/pull-shark)  
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnafathima&layout=compact&theme=tokyonight" alt="lubnafathima_stats" />  
+<!-- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lubnafathima&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnafathima&layout=compact&theme=tokyonight" alt="lubnafathima_stats" />   
+-->
+    
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lubnafathima&theme=tokyonight" alt="lubnafathima_stats"/>
 </p>
 
