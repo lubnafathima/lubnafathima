@@ -67,7 +67,6 @@
 
 
 <!-- This is a comment
-Just for my reference
 
 
 # Heading 1
