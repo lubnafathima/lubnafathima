@@ -66,8 +66,7 @@
 
 
 
-<!-- This is a comment for reference
-
+<!-- This is a comment 
 
 # Heading 1
 ## Heading 2
