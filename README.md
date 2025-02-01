@@ -70,6 +70,7 @@
 
 Hey there, Lubna here.
 Busy with office projects.
+Plans after FSD: InstiManage & EcoCraft
 
 Need to create a github tille inspired todo.
 
