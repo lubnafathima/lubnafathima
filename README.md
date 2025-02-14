@@ -66,26 +66,10 @@
 
 
 
-<!-- This is a comment 
-
-TO-DO
-10/02/2025 - update all docs, FSD complete
-11/02/2025 - still pending
-11/02/2025 - still pending ... busy with fasting
-
-Hey there, Lubna here.
-Busy with office projects.
-Plans after FSD: InstiManage & EcoCraft
-
+<!-- 
+update all docs, FSD complete
+InstiManage & EcoCraft
 Need to create a github tiles inspired todo.
-
-30 day plan: 
-- 1 to 10 FSD
-- 1 to 20 Projects
-- 21 to 30 Job Apply
-
-Busy with upgrading furniture, need to get back ASAP 
-
 
 
 # Heading 1
