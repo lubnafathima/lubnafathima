@@ -33,7 +33,7 @@
 ### Connect With Me 🤝🤝
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/MsCoder1)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lubna-fathima-n/)
-[<img src = "https://img.shields.io/badge/Portfolio-%ff69b4.svg?&style=for-the-badge&logo=user&logoColor=white">](https://lubnafathima.github.io/portfolio/)
+[<img src = "https://img.shields.io/badge/Portfolio-%ff69b4.svg?&style=for-the-badge&logo=user&logoColor=white">]([https://lubnafathima.github.io/portfolio/](https://drive.google.com/file/d/13v-1G76ahKg7_cl3qs2UFVpnFshjEYb-/view))
 [<img src="https://img.shields.io/badge/linkfree-%230077B5.svg?&style=for-the-badge&logo=linktree&logoColor=white" />](https://linkfree.eddiehub.io/lubnafathima)
 [<img src = "https://img.shields.io/badge/hashnode-%2320A1F1.svg?&style=for-the-badge&logo=hashnode&logoColor=white">](https://hashnode.com/@lubnafathima)
 [<img src="https://img.shields.io/badge/dev-%230077B5.svg?&style=for-the-badge&logo=dev&logoColor=white" />](https://dev.to/lubnafathima)
