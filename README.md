@@ -62,7 +62,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnafathima&layout=compact&theme=tokyonight" alt="lubnafathima_stats" />   
 -->
     
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lubnafathima&theme=tokyonight" alt="lubnafathima_stats"/>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lubnafathima&theme=tokyonight" alt="lubnafathima_stats"/>
 </p>
 
 
