@@ -74,6 +74,8 @@ Need to create a github tiles inspired todo.
 
 JS basics + problem solving + React + html/css
 
+create a pre-defined template for easy use (responsive with diff rounded corners)
+
 
 # Heading 1
 ## Heading 2
