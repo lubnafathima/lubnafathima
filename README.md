@@ -4,7 +4,7 @@
 
 - 🔭 I’m B.Tech **Information Technology** graduate.  
 - 👯 I’m a **SDE**
-- 🌱 I expertise in **Next Js, React Js, Redux, TypeScript, JavaScript, Airtable, Bootstarp, Tailwind CSS, and SCSS**
+- 🌱 I expertise in **Next Js, React Js, Redux, TypeScript, JavaScript, Firebase, Airtable, Bootstarp, Tailwind CSS, and SCSS**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
 - 🚩 I'm a [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
 - 🤔 I’m looking forward to meeting amazing like-minded people
