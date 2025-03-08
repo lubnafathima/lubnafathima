@@ -7,6 +7,7 @@
 - 🌱 I expertise in **Next Js, React Js, Redux, TypeScript, JavaScript, Firebase, Airtable, Bootstarp, Tailwind CSS, and SCSS**
 - 🤖 I'm a finalist in **Smart India Hackathon 2020**
 - 🚩 I'm a [#100DaysOfCode](https://twitter.com/MsCoder1) Challenge Advocate
+- 💻 I'm interested in Full Stack Development 
 - 🤔 I’m looking forward to meeting amazing like-minded people
 - 💬 Let's talk about Websites or anything Tech-related
 - 😄 Pronouns: she/her
