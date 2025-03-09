@@ -70,7 +70,7 @@
 
 <!-- 
 update all docs, FSD complete
-InstiManage & EcoCraft
+InstiManage
 Need to create a github tiles inspired todo.
 
 JS basics + problem solving + React + html/css
