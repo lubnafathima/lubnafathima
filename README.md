@@ -1,6 +1,6 @@
 ![git](https://user-images.githubusercontent.com/69050759/186909679-888fc782-37aa-42de-a37b-a2374c211b51.gif)
 
-### Hi there 👋
+### Hello World 👋
 
 - 🔭 I’m B.Tech **Information Technology** graduate.  
 - 👯 I’m a **SDE**
