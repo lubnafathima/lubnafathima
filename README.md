@@ -67,9 +67,7 @@
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lubnafathima&theme=tokyonight" alt="lubnafathima_stats"/>
 </p>
 
-<div align="center">
-    ![snake gif](https://github.com/lubnafathima/lubnafathima/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/lubnafathima/lubnafathima/blob/output/github-snake.svg)
 
 <!-- 
 Redux
