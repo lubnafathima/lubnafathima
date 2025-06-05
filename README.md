@@ -69,17 +69,7 @@
 
 ![snake gif](https://github.com/lubnafathima/lubnafathima/blob/output/github-snake.svg)
 
-<!-- 
-Redux
-update all docs, FSD complete
-InstiManage
-Need to create a github tiles inspired todo.
-
-JS basics + problem solving + React + html/css
-
-create a pre-defined template for easy use (responsive with diff rounded corners)
-
-
+<!--
 # Heading 1
 ## Heading 2
 ### Heading 3
