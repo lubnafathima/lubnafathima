@@ -54,7 +54,7 @@
 ### -> [Frontend Mentor](https://www.frontendmentor.io/profile/lubnafathima)  
 
 ### My Badges 🏅
-[![@lubna's Holopin board](https://holopin.io/api/user/board?user=lubna)](https://holopin.io/@lubna)  
+[![An image of @lubna's Holopin badges](https://holopin.me/lubna)](https://holopin.io/@lubna)
 - [Quickdraw Badge in Github](https://github.com/users/lubnafathima/achievements/quickdraw)  
 - [Pull Shark Badge in Github](https://github.com/users/lubnafathima/achievements/pull-shark)  
 
